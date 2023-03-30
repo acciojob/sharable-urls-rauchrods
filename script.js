@@ -23,5 +23,5 @@ button.addEventListener("click",()=>{
 });
 
 form.addEventListener('submit', (e)=>{
-     e.preventDefault;
+     e.preventDefault();
 });
